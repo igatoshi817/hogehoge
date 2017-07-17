@@ -1,7 +1,7 @@
 import numpy as np
 import glob
 #template_data,test_data
-temp_folder = 'city_mcepdata/city021/*'
+temp_folder = 'city_mcepdata/city012/*'
 test_folder = 'city_mcepdata/city022/*'
 def main():
     #data_load
